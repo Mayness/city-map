@@ -1,0 +1,318 @@
+{
+  "XIN_JIANG": {
+    "name": "新疆",
+    "gps": [
+      85.19264150401752,
+      41.1228885691684
+    ],
+    "filePath": "XIN_JIANG.json",
+    "size": 0.6
+  },
+  "XI_ZANG": {
+    "name": "西藏",
+    "gps": [
+      88.43673257076325,
+      31.488233286620176
+    ],
+    "filePath": "XI_ZANG.json",
+    "size": 0.5
+  },
+  "NEI_MENG_GU": {
+    "name": "内蒙古",
+    "gps": [
+      113.92912239152899,
+      44.088098970093114
+    ],
+    "filePath": "NEI_MENG_GU.json",
+    "size": 0.7
+  },
+  "QING_HAI": {
+    "name": "青海",
+    "gps": [
+      96.03436356266393,
+      35.65829543265132
+    ],
+    "filePath": "QING_HAI.json",
+    "size": 0.35
+  },
+  "SI_CHUAN": {
+    "name": "四川",
+    "gps": [
+      102.70150684924234,
+      30.62680611326707
+    ],
+    "filePath": "SI_CHUAN.json",
+    "size": 0.3
+  },
+  "HEI_LONG_JIANG": {
+    "name": "黑龙江",
+    "gps": [
+      127.7737811814396,
+      47.87188388660573
+    ],
+    "filePath": "HEI_LONG_JIANG.json",
+    "size": 0.35
+  },
+  "GAN_SU": {
+    "name": "甘肃",
+    "gps": [
+      100.60274911837095,
+      37.88481287154685
+    ],
+    "filePath": "GAN_SU.json",
+    "size": 0.4
+  },
+  "YUN_NAN": {
+    "name": "云南",
+    "gps": [
+      101.49214752930432,
+      24.960364214083167
+    ],
+    "filePath": "YUN_NAN.json",
+    "size": 0.3
+  },
+  "GUANG_XI": {
+    "name": "广西",
+    "gps": [
+      108.79660281152331,
+      23.802515654310856
+    ],
+    "filePath": "GUANG_XI.json",
+    "size": 0.18
+  },
+  "HU_NAN": {
+    "name": "湖南",
+    "gps": [
+      111.70495940793067,
+      27.614722763614633
+    ],
+    "filePath": "HU_NAN.json",
+    "size": 0.2,
+    "reverse": true
+  },
+  "SHAN_XI_1": {
+    "name": "陕西",
+    "gps": [
+      108.85765185716429,
+      35.18813435343781
+    ],
+    "filePath": "SHAN_XI_1.json",
+    "reverse": true,
+    "size": 0.25
+  },
+  "GUANG_DONG": {
+    "name": "广东",
+    "gps": [
+      113.38857542372794,
+      23.204326248938994
+    ],
+    "filePath": "GUANG_DONG.json",
+    "size": 0.25
+  },
+  "JI_LIN": {
+    "name": "吉林",
+    "gps": [
+      126.21170909333455,
+      43.660063237477154
+    ],
+    "filePath": "JI_LIN.json",
+    "size": 0.25
+  },
+  "HE_BEI": {
+    "name": "河北",
+    "gps": [
+      116.17075650498774,
+      39.53324339712399
+    ],
+    "filePath": "HE_BEI.json",
+    "size": 0.24,
+    "reverse": true
+  },
+  "HU_BEI": {
+    "name": "湖北",
+    "gps": [
+      112.26907404460367,
+      30.982954414948004
+    ],
+    "filePath": "HU_BEI.json",
+    "size": 0.22
+  },
+  "GUI_ZHOU": {
+    "name": "贵州",
+    "gps": [
+      106.88379730110121,
+      26.81210038005003
+    ],
+    "filePath": "GUI_ZHOU.json",
+    "size": 0.18,
+    "reverse": true
+  },
+  "SHAN_DONG": {
+    "name": "山东",
+    "gps": [
+      118.34204108240064,
+      36.37870466720322
+    ],
+    "filePath": "SHAN_DONG.json",
+    "size": 0.22
+  },
+  "JIANG_XI": {
+    "name": "江西",
+    "gps": [
+      115.72166106039496,
+      27.607607466227265
+    ],
+    "filePath": "JIANG_XI.json",
+    "size": 0.2,
+    "reverse": true
+  },
+  "HE_NAN": {
+    "name": "河南",
+    "gps": [
+      113.60887227291317,
+      33.87745764414404
+    ],
+    "filePath": "HE_NAN.json",
+    "size": 0.2
+  },
+  "LIAO_NING": {
+    "name": "辽宁",
+    "gps": [
+      122.56568704494225,
+      41.166634494621206
+    ],
+    "filePath": "LIAO_NING.json",
+    "size": 0.23
+  },
+  "SHAN_XI_2": {
+    "name": "山西",
+    "gps": [
+      112.28655499062828,
+      37.56301482038791
+    ],
+    "filePath": "SHAN_XI_2.json",
+    "size": 0.18,
+    "reverse": true
+  },
+  "AN_HUI": {
+    "name": "安徽",
+    "gps": [
+      117.22677485253179,
+      31.824632185081736
+    ],
+    "filePath": "AN_HUI.json",
+    "size": 0.19,
+    "reverse": true
+  },
+  "FU_JIAN": {
+    "name": "福建",
+    "gps": [
+      118.13973515650709,
+      26.027317698195766
+    ],
+    "filePath": "FU_JIAN.json",
+    "size": 0.18
+  },
+  "ZHE_JIANG": {
+    "name": "浙江",
+    "gps": [
+      120.43890766484732,
+      29.2531943250865
+    ],
+    "filePath": "ZHE_JIANG.json",
+    "size": 0.2
+  },
+  "JIANG_SU": {
+    "name": "江苏",
+    "gps": [
+      119.51005096084658,
+      32.98616352071148
+    ],
+    "filePath": "JIANG_SU.json",
+    "size": 0.18
+  },
+  "CHONG_QING": {
+    "name": "重庆",
+    "gps": [
+      107.88132356596141,
+      30.0663678026112
+    ],
+    "filePath": "CHONG_QING.json",
+    "size": 0.15
+  },
+  "NING_XIA": {
+    "name": "宁夏",
+    "gps": [
+      106.17615214307766,
+      37.26017465458066
+    ],
+    "filePath": "NING_XIA.json",
+    "size": 0.14,
+    "reverse": true
+  },
+  "HAI_NAN": {
+    "name": "海南",
+    "gps": [
+      109.78316230150473,
+      19.2197158168837
+    ],
+    "filePath": "HAI_NAN.json",
+    "size": 0.15,
+    "reverse": true
+  },
+  "TAI_WAN": {
+    "name": "台湾",
+    "gps": [
+      120.97042727114402,
+      23.776533761235815
+    ],
+    "filePath": "TAI_WAN.json"
+  },
+  "BEI_JING": {
+    "name": "北京",
+    "gps": [
+      116.42106519916267,
+      40.1808238754141
+    ],
+    "filePath": "BEI_JING.json",
+    "size": 0.06
+  },
+  "TIAN_JIN": {
+    "name": "天津",
+    "gps": [
+      117.34180049516894,
+      39.2661525806874
+    ],
+    "filePath": "TIAN_JIN.json",
+    "size": 0.05,
+    "reverse": true
+  },
+  "SHANG_HAI": {
+    "name": "上海",
+    "gps": [
+      121.50615630674197,
+      31.219733486024086
+    ],
+    "filePath": "SHANG_HAI.json",
+    "size": 0.04,
+    "reverse": true
+  },
+  "XIANG_GANG": {
+    "name": "香港",
+    "gps": [
+      114.2171104710346,
+      22.322755374089237
+    ],
+    "filePath": "XIANG_GANG.json",
+    "size": 0.04
+  },
+  "AO_MEN": {
+    "name": "澳门",
+    "gps": [
+      113.57287998685821,
+      22.157117750164694
+    ],
+    "filePath": "AO_MEN.json",
+    "size": 0.02
+  }
+}
